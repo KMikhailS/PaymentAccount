@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class NewService {
 
-    private LocalDate initDate;
+    private LocalDate initDates;
     private LocalDate endDate;
     private String rebase;
 
