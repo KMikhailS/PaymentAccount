@@ -17,5 +17,4 @@ public class NewService {
     public Double getDoubleFromValue(String value) {
         return Double.parseDouble(value);
     }
-
 }
