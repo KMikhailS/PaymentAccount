@@ -5,6 +5,7 @@ import java.time.LocalDate;
 public class NewService {
 
     private LocalDate initDate;
+    private LocalDate endDate;
 
     public void printValue(String value) {
         System.out.println(value);
