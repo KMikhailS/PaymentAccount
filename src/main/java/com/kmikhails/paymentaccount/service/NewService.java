@@ -6,6 +6,7 @@ public class NewService {
 
     private LocalDate initDate;
     private LocalDate endDate;
+    private String rebase;
 
     public void printValue(String value) {
         System.out.println(value);
